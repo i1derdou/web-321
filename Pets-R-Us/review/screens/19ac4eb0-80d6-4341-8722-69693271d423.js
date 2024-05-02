@@ -2,17 +2,17 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1"width="1440" height="900">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1714617769859.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1714619686416.css" />\
       <div class="freeLayout">\
       </div>\
 \
       </div>\
       <div id="loadMark"></div>\
     </div>\
-    <div id="s-19ac4eb0-80d6-4341-8722-69693271d423" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Screen 1"width="1440" height="900">\
+    <div id="s-19ac4eb0-80d6-4341-8722-69693271d423" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Signup Page"width="1440" height="900">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/19ac4eb0-80d6-4341-8722-69693271d423-1714617769859.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/19ac4eb0-80d6-4341-8722-69693271d423-1714619686416.css" />\
       <div class="freeLayout">\
       <div id="s-Image" class="image firer ie-background commentable hidden non-processed" customid="Image"   datasizewidth="1440.0px" datasizeheight="900.0px" dataX="0.0" dataY="-0.0"   alt="image">\
         <div class="borderLayer">\
